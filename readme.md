@@ -7,7 +7,7 @@ Este projeto implementa dois algoritmos clássicos de análise sintática:
 
 ---
 
-## 📂 Estrutura do Projeto
+### 📂 Estrutura do Projeto
 /src
 ├── earley.rb       # Implementação do parser Earley
 ├── cyk.rb          # Implementação do parser CYK
